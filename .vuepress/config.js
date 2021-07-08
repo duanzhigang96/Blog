@@ -23,7 +23,7 @@ module.exports = {
         vssueConfig: {
             platform: 'github',
             owner: 'kafuka',
-            repo: 'my-blog',
+            repo: 'Blog',
             clientId: '666693621f4b89b93f21',
             clientSecret: '698904fe681a09f67be3ee5df713aae9b45506f9',
         },
@@ -55,14 +55,12 @@ module.exports = {
                 }]
             }
         ],
-        // "sidebar": {
-        //   "/docs/theme-reco/": [
-        //     "",
-        //     "theme",
-        //     "plugin",
-        //     "api"
-        //   ]
-        // },
+        "sidebar": {
+            '/algorithm/': [
+                '',
+                'leetcode01',
+            ],
+        },
         "type": "blog",
         "blogConfig": {
             "category": {
@@ -75,10 +73,10 @@ module.exports = {
             }
         },
         "friendLink": [{
-                "title": "kun's blog",
-                "desc": "聚沙成塔",
-                "email": "yk_job@163.com",
-                "link": "https://blog.fengxiuge.top/"
+                "title": "Google",
+                "desc": "谷歌",
+                "email": "",
+                "link": "https://www.google.com/"
             },
             {
                 "title": "vuepress-theme-reco",
