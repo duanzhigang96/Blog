@@ -41,7 +41,7 @@ module.exports = {
                 "text": "Docs",
                 "icon": "reco-message",
                 "items": [{
-                    "text": "vuepress-reco",
+                    "text": "Hello Wrold",
                     "link": "/docs/theme-reco/"
                 }]
             },
@@ -91,10 +91,10 @@ module.exports = {
         "lastUpdated": "Last Updated",
         "author": "kafuka",
         "authorAvatar": "https://avatars.githubusercontent.com/u/56813828?s=400&u=46b36be613fac11971920be17d89a6b425d66aa1&v=4",
-        // "record": "京ICP备2021019798号",
+        "record": "京ICP备2021xxxx号",
         "recordLink": "https://beian.miit.gov.cn",
-        // "cyberSecurityRecord": '京公网安备11010502045123',
-        // "cyberSecurityLink": 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502045123',
+        "cyberSecurityRecord": '京公网安备xxxxxx',
+        "cyberSecurityLink": 'http://www.beian.gov.cn/xxxx',
         "startYear": "2021"
     },
     "markdown": {
