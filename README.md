@@ -11,7 +11,7 @@ heroImageStyle: {
   background: '#fff',
   borderRadius: '1rem',
 }
-bgImage: /bg.jpeg
+bgImage: /bg.png
 bgImageStyle: {
   height: '450px'
 }
