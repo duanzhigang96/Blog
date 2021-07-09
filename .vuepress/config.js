@@ -24,8 +24,8 @@ module.exports = {
             platform: 'github',
             owner: 'kafuka',
             repo: 'Blog',
-            clientId: '666693621f4b89b93f21',
-            clientSecret: '698904fe681a09f67be3ee5df713aae9b45506f9',
+            clientId: '11a892f1b47a780dbfad',
+            clientSecret: '66c06a53c73add4bf3a829ddde9a77a94655791a ',
         },
         "nav": [{
                 "text": "Home",
