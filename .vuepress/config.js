@@ -59,6 +59,7 @@ module.exports = {
             '/algorithm/': [
                 '',
                 'leetcode01',
+                'leetcode02',
             ],
         },
         "type": "blog",
