@@ -60,6 +60,7 @@ module.exports = {
                 '',
                 'leetcode01',
                 'leetcode02',
+                'leetcode03',
             ],
         },
         "type": "blog",
