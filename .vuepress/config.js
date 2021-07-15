@@ -62,6 +62,10 @@ module.exports = {
                 'leetcode02',
                 'leetcode03',
             ],
+            '/linux/': [
+                '',
+                'crontab',
+            ],
         },
         "type": "blog",
         "blogConfig": {
